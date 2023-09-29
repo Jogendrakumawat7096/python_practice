@@ -1,0 +1,10 @@
+s = "Jogendra Kumawat"
+print(s[::])
+print(s[0:18])
+print(s[0::5])
+print(s[::4])
+print(s[-17:-1])
+print(s[::-5])
+print(s[-14:-1:2])
+print(s[-11:])
+print(s[::-1])
