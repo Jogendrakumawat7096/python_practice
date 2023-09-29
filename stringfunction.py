@@ -1,0 +1,17 @@
+s="Jogendra Kumawat"
+print(s)
+print(s.capitalize())
+print(s.count("a"))
+print(s.endswith("wat"))
+print(s.index("a",2)) #2 is for second a
+print(s.lower())
+print(s.upper())
+print(s.title())
+print(s.swapcase())
+print(s.isalnum())
+print("122dd".isalnum())
+print("455".isalpha())
+print("555".isidentifier())
+print(s.istitle())
+print("".isspace())
+print("jk".replace("k","j"))
